@@ -1,5 +1,7 @@
 # Turtle Crossing Game 🐢
 
+![img](image.png)
+
 A classic Frogger-style game built with Python Turtle graphics where a turtle must cross a busy road!
 
 ## 📁 Files
